@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Brooks
 
-<!--
-**Pickupolddriver/Pickupolddriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💻 Software Engineer · ☕ Java · 🌐 Distributed Systems**
 
-Here are some ideas to get you started:
+I build reliable backend systems, with a focus on clear architecture, performance, and production reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Engineering Focus
+
+- **⚙️ Backend systems** — API design, data modeling, and microservices.
+- **🔗 Distributed infrastructure** — shared caching, authorization, task scheduling, and consistency.
+- **📊 Production engineering** — observability, resilience, and performance optimization.
+- **🤖 Applied AI** — RAG, agent integrations, and AI-assisted development.
+
+## 🧰 Tech Stack
+
+**☕ Java · 🍃 Spring Boot · Redis · 🐘 PostgreSQL · ☸️ Kubernetes · ☁️ AWS · ZooKeeper**
+
+## 🌱 Currently Exploring
+
+- **📈 Trading technology** — order lifecycles and execution workflows.
+- **📨 Event-driven systems** — reliable messaging and distributed coordination.
+- **🧠 AI agents** — practical applications in software engineering.
+
+## 🧭 Engineering Principles
+
+- 🎯 Start with the problem and its constraints.
+- 🛡️ Make failure modes explicit.
+- 📏 Measure before optimizing.
+- 🧩 Keep systems understandable and maintainable.
